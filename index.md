@@ -2,8 +2,8 @@
 layout: none
 ---
 
-"Do smart quotes work?"
+"double quote"
 
-"Dunno"
+'single quote'
 
-It isn't fair.
+Mike's
