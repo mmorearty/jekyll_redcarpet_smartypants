@@ -1,3 +1,2 @@
 markdown: redcarpet
-redcarpet:
   extensions: ["smart"]
